@@ -1,5 +1,6 @@
 # AU-sales-dashboard
-📊 AU Smart Product Sales Dashboard This Excel dashboard provides interactive insights into sales performance, customer segmentation, and profitability across Australian regions.
+📊 AU Smart Product Sales Dashboard.
+This Excel dashboard provides interactive insights into sales performance, customer segmentation, and profitability across Australian regions.
 
 🔍 Project Overview
 This project presents an interactive Excel dashboard built from scratch using custom-generated smart product sales data across Australia. The dashboard is designed to simulate real-world retail analytics workflows, focusing on user-friendly visuals, KPI tracking, and dynamic filtering. It combines Excel’s advanced features like pivot tables, slicers, calculated fields, and pivot charts to surface valuable business insights.
